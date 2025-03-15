@@ -28,4 +28,4 @@ This repository includes four Jupyter Notebooks, each produce separate result in
    - produces the simulation and prediction for Microbial Consumer Resource models, in addition perform repeated invasion simulation to study evolved ecosystems.
 
 ## Data
-The `data` folder in this repository is a direct copy from [DS Maynard's GitHub repository](https://github.com/dsmaynard/endpoints). It is included here solely to ensure compatibility with one of the Jupyter Notebooks, general_LV_for_data.ipynb, which relies on this data for analysis. 
+The `data` folder in this repository is a direct copy from [DS Maynard's GitHub repository](https://github.com/dsmaynard/endpoints). It is included here solely to ensure compatibility with one of the Jupyter Notebooks, `general_LV_for_data.ipynb`, which relies on this data for analysis. 

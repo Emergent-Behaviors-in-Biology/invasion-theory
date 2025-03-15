@@ -15,10 +15,10 @@ This repository contains the code related to our recent work on ecological invas
 
 This repository includes four Jupyter Notebooks, each produce separate result in our work:
 
-1. **Notebook 1: general_LV_for_figure**
+1. **Notebook 1: general_LV_for_figure.ipynb**
    - produces the simulation and prediction for general Lotka-Volterra models.
 
-2. **Notebook 2: general_LV_for_data**
+2. **Notebook 2: general_LV_for_data.ipynb**
    - performs data analysis and prediction for experimental ecosystem fitted with general Lotka-Volterra models.
 
 3. **Notebook 3: general_MCRM.ipynb**

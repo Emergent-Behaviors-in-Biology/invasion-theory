@@ -15,16 +15,16 @@ This repository contains the code related to our recent work on ecological invas
 
 This repository includes four Jupyter Notebooks, each produce separate result in our work:
 
-1. **Notebook 1: general_LV_for_figure.ipynb**
+1. **Notebook 1: `general_LV_for_figure.ipynb`**
    - produces the simulation and prediction for general Lotka-Volterra models.
 
-2. **Notebook 2: general_LV_for_data.ipynb**
+2. **Notebook 2: `general_LV_for_data.ipynb`**
    - performs data analysis and prediction for experimental ecosystem fitted with general Lotka-Volterra models.
 
-3. **Notebook 3: general_MCRM.ipynb**
+3. **Notebook 3: `general_MCRM.ipynb`**
    - produces the simulation and prediction for general MacArthur Consumer Resource models.
 
-4. **Notebook 4: MiCRM_and_evolution.ipynb**
+4. **Notebook 4: `MiCRM_and_evolution.ipynb`**
    - produces the simulation and prediction for Microbial Consumer Resource models, in addition perform repeated invasion simulation to study evolved ecosystems.
 
 ## Data

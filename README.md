@@ -37,4 +37,4 @@ This repository includes four Jupyter Notebooks, each produces a separate result
 
 
 ## Data
-The `data` folder in this repository is a direct copy from [DS Maynard's GitHub repository](https://github.com/dsmaynard/endpoints), and the `data` folder comes from [StefanoAllesina's GitHub repository](https://github.com/dsmaynard/endpoints](https://github.com/StefanoAllesina/lemos-costa-2023). They are included here solely to ensure compatibility with one of the Jupyter Notebooks, `general_LV_for_data.ipynb`, which relies on this data for reanalysis. 
+The `data` folder in this repository is a direct copy from [DS Maynard's GitHub repository](https://github.com/dsmaynard/endpoints), and the `additional_data` and `additional_matrix` folders contain data from [StefanoAllesina's GitHub repository](https://github.com/StefanoAllesina/lemos-costa-2023). They are included here solely to ensure compatibility with one of the Jupyter Notebooks, `general_LV_for_data.ipynb`, which relies on this data for reanalysis. 
